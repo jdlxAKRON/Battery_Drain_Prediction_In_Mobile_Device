@@ -1,0 +1,11 @@
+geopandas==1.0.1
+gradio==5.31.0
+gradio_client==1.10.1
+joblib==1.5.1
+numpy==2.0.2
+pandas==2.2.2
+pandas-datareader==0.10.0
+pandas-gbq==0.29.1
+pandas-stubs==2.2.2.240909
+scikit-learn==1.6.1
+sklearn-pandas==2.2.0
